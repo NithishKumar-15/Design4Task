@@ -5,7 +5,7 @@ import React from 'react'
 
 export const Reviews = () => {
     return (
-        <div className='mt-24 bg-sky-100 '>
+        <div className='mt-24 bg-sky-100'>
             <Container sx={{ height: "350px" }}>
                 <Grid container spacing={2} sx={{ height: "100%", justifyContent: "center", alignItems: "center" }}>
                     <Grid size={6}>
